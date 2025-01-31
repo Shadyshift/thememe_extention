@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "THE MEME EXTENTION",
+  "version": "1.0",
+  "description": "A fan of /r/memes made a extention for exactly that EVERY 10 SECONDS A MEME YIPPIEEEIEEE",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage", "windows", "activeTab"],
+  "host_permissions": ["https://meme-api.com/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
