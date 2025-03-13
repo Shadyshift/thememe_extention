@@ -12,4 +12,6 @@ add it in chrome:(chromium so edge, Vivaldi, ect will word but you need to navig
 
 It is not perfect afcoure, if you want to make it better you can afcourse do that. I made this in one day i just think it whas funny it is not very serious! And chrome will probably say that it is a security risk, because you didn't download from the extension store.
 
-btw: i speedrunned it in 20min try to beat my time!!
+btw: i speedrunned it in 20min try to beat my time!! 
+
+I want to make it more useful but it is unlikely because I just not have the time for it and I have other things on my mind.
