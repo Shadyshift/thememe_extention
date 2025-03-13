@@ -14,4 +14,4 @@ It is not perfect afcoure, if you want to make it better you can afcourse do tha
 
 btw: i speedrunned it in 20min try to beat my time!! 
 
-I want to make it more useful but it is unlikely because I just not have the time for it and I have other things on my mind.
+I want to make it more useful but it is unlikely because I just not have the time for it and I have other things on my mind. it is a "I am bored so I code this" project 
