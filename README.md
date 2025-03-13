@@ -2,7 +2,7 @@ Just a stupid meme extention.
 When started every 10 sec a random meme from r/memes window opens
  
 
-add it in chrome:(chromium so edge, Vivaldi, ect will word but you need to navigate to edge://extensions or something. most browsers are chromium exept fore firefox based)
+add it in chrome:(chromium so edge, Vivaldi, ect will word but you need to navigate to edge://extensions or something. most browsers are chromium exept for firefox based)
 1. navigate to chrome://extensions
 2. at the right top you can click develeper mode
 3. extract the zip
