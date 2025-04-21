@@ -10,7 +10,7 @@ add it in chrome:(chromium so edge, Vivaldi, ect will word but you need to navig
 5. if you downloaded from the releases tab you get a error, noting to scary you are already done :)
 6. CLICK ON START
 
-It is not perfect afcoure, if you want to make it better you can afcourse do that. I made this in one day i just think it whas funny it is not very serious! And chrome will probably say that it is a security risk, because you didn't download from the extension store.
+It is not perfect afcoure, if you want to make it better you can afcourse do that. I made this in one day i just think it whas funny it is not very serious! And chrome will probably say that it is a security risk, because you didn't download from the extension store.(extentions form the chrome store could still be malware)
 
 btw: i speedrunned it in 20min try to beat my time!! 
 
